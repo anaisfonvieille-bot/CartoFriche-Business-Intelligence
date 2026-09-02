@@ -164,6 +164,18 @@ It strengthened my understanding of how Business Analysis, Data Product Manageme
 
 ---
 
+### 📂 Project Deliverables
+
+Key project deliverables are available in this repository:
+
+- 📊 [SmartFriche Dashboard Mockup](images/Maquette%20dashbord.pdf)
+- 🎯 [Feature Prioritization Matrix](images/grille%20priorisation.pdf)
+- 👥 [Stakeholder Analysis](images/Matrice%20des%20parties%20prenantes.pdf)
+- 📑 [Full Project Presentation](presentation/CARTOFRICHE%20(1).pdf)
+- 👩‍💻 [Individual Project Report — Anaïs Fonvieille](report/rendu%20individuel%20Anais%20Cartofriches.pdf)
+
+---
+
 ### 🧠 Skills Demonstrated
 
 `Business Analysis` `Data Product Management` `Discovery`  
