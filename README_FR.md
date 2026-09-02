@@ -164,6 +164,18 @@ Il m'a également permis de développer une vision plus globale reliant Business
 
 ---
 
+### 📂 Livrables du projet
+
+Les principaux livrables du projet sont disponibles dans ce dépôt :
+
+- 📊 [Maquette du dashboard SmartFriche](images/Maquette%20dashbord.pdf)
+- 🎯 [Grille de priorisation des fonctionnalités](images/grille%20priorisation.pdf)
+- 👥 [Matrice des parties prenantes](images/Matrice%20des%20parties%20prenantes.pdf)
+- 📑 [Présentation complète du projet](presentation/CARTOFRICHE%20(1).pdf)
+- 👩‍💻 [Rapport individuel — Anaïs Fonvieille](report/rendu%20individuel%20Anais%20Cartofriches.pdf)
+
+---
+
 ### 🧠 Compétences mobilisées
 
 `Business Analysis` `Data Product Management` `Discovery`  
